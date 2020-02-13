@@ -24,5 +24,7 @@ class GiphyImages (
     val height: String,
 
     @SerializedName ("width")
-    val width: String
+    val width: String,
+
+    val viewType: Int
 )

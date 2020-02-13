@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">TestGridLayout</string>
     <string name="action_settings">Settings</string>
-    <string name="Settings">Switch</string>
+    <string name="action_switch">on/off cards</string>
 </resources>
